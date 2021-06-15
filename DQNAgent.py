@@ -3,7 +3,6 @@ import random
 import numpy as np
 from collections import deque
 import tensorflow as tf
-from matplotlib import pyplot as plt
 tf.compat.v1.disable_eager_execution()
 
 class DQNAgent:
