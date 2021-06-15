@@ -21,7 +21,7 @@ No linux `$ source <NOME>/bin/activate`
 Para sair do Vitual Env. o comando é `deactivate`
 
 ### Biblioteca
-Uma vez ativada, instalamos as bibliotecas a seguir, utilizando o Python 3.7
+Uma vez que o virtualenv for ativada, instalamos as bibliotecas a seguir, utilizando o Python 3.7
 
 ```
 pip3.7 install gym-tetris
